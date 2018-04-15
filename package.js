@@ -1,7 +1,7 @@
 /* jshint ignore:start */
 Package.describe({
   name: 'feathereum:web3',
-  version: '0.15.2',
+  version: '0.15.3',
   summary: 'Feathereum and Ethereum JavaScript API, middleware to talk to a feathereum node over RPC',
   git: 'https://github.com/feathereum/web3.js',
   // By default, Meteor will default to using README.md for documentation.

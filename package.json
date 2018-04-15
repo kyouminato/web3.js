@@ -1,14 +1,14 @@
 {
   "name": "web3",
   "namespace": "feathereum",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "description": "Feathereum and Ethereum JavaScript API, middleware to talk to a feathereum node over RPC",
   "main": "./index.js",
   "directories": {
     "lib": "./lib"
   },
   "dependencies": {
-    "bignumber.js": "debris/bignumber.js#master",
+    "bignumber.js": "git+https://github.com/debris/bignumber.js#master",
     "crypto-js": "^3.1.4",
     "utf8": "^2.1.1",
     "xmlhttprequest": "*"
